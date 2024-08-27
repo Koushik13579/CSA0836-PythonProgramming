@@ -1,0 +1,6 @@
+a=(1,2,3,"koushik","Lathika")
+print("Index:",a.index("koushik"))
+print(a[1:3])
+print(a[-1])
+print(a*2)
+print(a+a)
